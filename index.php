@@ -23,7 +23,7 @@
   </main>
   <footer class="mastfoot mt-auto">
     <div class="inner">
-      <p> &copy; Copyright <?php echo date('yy'); ?></p>
+      <p> &copy; Copyright <?php echo date("F j,Y"); ?></p>
     </div>
   </footer>
 </div>
